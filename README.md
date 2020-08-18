@@ -6,7 +6,7 @@ Anton is a product-oriented software engineer with broad experience in the devel
 He's crafted apps for a variety of clients from small business owners to large mobile network operators and banks. 
 Clean, testable, and efficient codebase is what drives him, as well as a happy and successful client, an indicator of high-quality work.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Dev97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Dev97&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pro_Dev's github stats](https://github-readme-stats.vercel.app/api?username=Anton-Dev97&count_private=true)
 
