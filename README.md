@@ -8,7 +8,7 @@ Clean, testable, and efficient codebase is what drives him, as well as a happy a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton-Dev97)](https://github.com/anuraghazra/github-readme-stats)
 
-![Code Dragon's github stats](https://github-readme-stats.vercel.app/api?username=Anton-Dev97&show_icons=true&theme=vue)
+![Anton-K's github stats](https://github-readme-stats.vercel.app/api?username=Anton-Dev97&show_icons=true&theme=vue)
 
 
 Please feel free to contact me.
